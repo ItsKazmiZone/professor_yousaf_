@@ -563,7 +563,7 @@ function initWhatsAppButton() {
   const btn = document.createElement('a');
   btn.id = 'whatsapp-floating-btn';
   btn.className = 'whatsapp-float';
-  btn.href = 'https://wa.me/923198034441?text=Hello%20Sir,%20I%20would%20like%20to%20know%20more%20about%20your%20online%20Mathematics%20tuition.';
+  btn.href = 'https://wa.me/923332192023?text=Hello%20Sir,%20I%20would%20like%20to%20know%20more%20about%20your%20online%20Mathematics%20tuition.';
   btn.target = '_blank';
   btn.rel = 'noopener noreferrer';
   btn.title = 'Contact on WhatsApp';
