@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <defs>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#e0d5c1" />
+      <stop offset="50%" stop-color="#c5a880" />
+      <stop offset="100%" stop-color="#a98d65" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="128" fill="#0f2d20"/>
+  <!-- Elegant Shield/Crest -->
+  <path d="M256 70 L380 120 C380 270 256 420 256 420 C256 420 132 270 132 120 Z" fill="none" stroke="url(#goldGrad)" stroke-width="24" stroke-linejoin="round"/>
+  <!-- Styled Mathematical Greek Letter Pi (π) inside representing premium mathematics tutoring -->
+  <path d="M190 180 H322 M220 180 V300 C220 310 210 320 200 320 M292 180 V300 C292 310 302 320 312 320" fill="none" stroke="url(#goldGrad)" stroke-width="28" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
